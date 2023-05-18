@@ -51,8 +51,8 @@ class MyClass
         end
       end
       
-      obj1 = MyClass.new
-      obj2 = MyClass.new
-      
-      puts MyClass.get_count  # Output: 2
+obj1 = MyClass.new
+obj2 = MyClass.new
+
+puts MyClass.get_count  # Output: 2
       
